@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:1- tv-logo="" goup-title="", Record
+https://tv.ljnet.inf.br/media/n/BZiXmti4y2GYnW/a/BZiXmti4y2GYnW/360p/chunks.m3u8?ch=BZiXmti4y2GYnW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzU4NDAyMzYsImlhdCI6MTY3NTgyMjIzNiwic3ViIjoidHYubGpuZXQuaW5mLmJyIzE2NzI0MDc4MjAifQ.YCIzutE61YFsjlkmTPdooST0ohNo--SJopQtIjAJP9s
+#EXTINF:1- tv-logo="" goup-title="", Telecine Action
+https://tv.ljnet.inf.br/media/n/BZq5mtG0y2GXnZq2nJG4/a/BZq5mtG0y2GXnZq2nJG4/720p/chunks.m3u8?ch=BZq5mtG0y2GXnZq2nJG4&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzU4NDA0NjYsImlhdCI6MTY3NTgyMjQ2Niwic3ViIjoidHYubGpuZXQuaW5mLmJyIzE2NzI0MDc4MjAifQ.EJe8EGyJJqnkUSt-ovB9PxbVlu44w9bcfXoiUxt3Hg8
